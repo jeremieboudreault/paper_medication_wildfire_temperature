@@ -10,7 +10,7 @@ This repository countains the codes and data to reproduce the analyses presented
 
 ### Data
 
-We cannot share the claims data that was provided by a private insurer partner. However, we included temperature, PM2.5 and wildfire smoke data in the `data_sample.csv` file for 10 randomly selected FSAs across Canada. The `MEMBERS` column was set to 1000 for each FSA, and the number of claims was simulated with Poisson(λ=200) so that the codes can be ran.
+We cannot share the claims data that was provided by a private insurer partner. However, we included temperature, PM2.5 and wildfire smoke data in the `data/sample.csv` file for 10 randomly selected FSAs across Canada. The `MEMBERS` column was set to 1000 for each FSA, and the number of claims was simulated with Poisson(λ=20) so that the codes can be ran.
 
 ---
 
